@@ -13,9 +13,8 @@ The simulation estimates expected runs, win probabilities, and score distributio
 
 - `player_stats_2024.csv` – Real batting and pitching stats for key Cubs and White Sox players.
 - `injury_replacements_2024.csv` – Injured players and their statistical replacements.
-- `model_1_team_level.py` – Poisson-based simulation using historical team-level scores.
-- `model_2_player_level.py` – Score estimation based on player performance aggregates.
-- `model_3_injury_simulation.py` – Monte Carlo simulation accounting for injuries and replacements.
+  
+- `decision analytics.ipynb` – 3 models included: model1Poisson-based simulation using historical team-level scores.model_2_player_level.py  Score estimation based on player performance aggregates.model_3_injury_simulation.py` – Monte Carlo simulation accounting for injuries and replacements.
 - `README.md` – Project documentation.
 
 ---
